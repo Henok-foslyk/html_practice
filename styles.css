@@ -1,0 +1,20 @@
+p
+#crazy-body {
+    background-color: lemonchiffon;
+    font-family: Comic Sans MS, cursive;
+    margin: 30px;
+}
+
+
+.info-box {
+    border: 4px dashed orange;
+    padding: 20px;
+    background-color: #f5f5dc;
+    width: fit-content;
+}
+
+.ugly-border {
+    border: 10px double limegreen;
+    box-shadow: 0 0 20px magenta;
+    transform: rotate(-2deg);
+}
